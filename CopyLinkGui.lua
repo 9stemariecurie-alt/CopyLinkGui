@@ -23,7 +23,7 @@ Frame.Parent = ScreenGui
 
 Title.Size = UDim2.new(1, 0, 0, 40)
 Title.BackgroundTransparency = 1
-Title.Text = "My YouTube Channel"
+Title.Text = "Copy Link for Script"
 Title.TextColor3 = Color3.new(1, 1, 1)
 Title.Font = Enum.Font.SourceSansBold
 Title.TextSize = 20
