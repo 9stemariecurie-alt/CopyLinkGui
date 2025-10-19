@@ -2,7 +2,7 @@
 -- A simple GUI that lets users copy or open your YouTube channel link.
 
 -- Replace this with your YouTube channel URL
-local CHANNEL_URL = "https://www.youtube.com/@YourChannelName"
+local CHANNEL_URL = "https://www.youtube.com/@Minh.Snipes"
 
 -- Create GUI
 local ScreenGui = Instance.new("ScreenGui")
